@@ -1,0 +1,6 @@
+WARNING:py.warnings:/home/opc/miniconda3/envs/minigpt4qwen/lib/python3.8/site-packages/torch/utils/checkpoint.py:31: UserWarning: None of the inputs have requires_grad=True. Gradients will be None
+  warnings.warn("None of the inputs have requires_grad=True. Gradients will be None")
+WARNING:py.warnings:/home/opc/miniconda3/envs/minigpt4qwen/lib/python3.8/site-packages/torch/utils/checkpoint.py:31: UserWarning: None of the inputs have requires_grad=True. Gradients will be None
+  warnings.warn("None of the inputs have requires_grad=True. Gradients will be None")
+step = 0, loss = 2.304839849472046, lr=0.0
+step = 1, loss = 2.064002752304077, lr=0.000125
